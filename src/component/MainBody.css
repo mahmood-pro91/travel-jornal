@@ -1,0 +1,29 @@
+.head-main{
+    font-size: 2.3rem;
+}
+
+body{
+    color:white;
+    background-color:#282D35
+}
+
+.main-body{
+    padding: 60px 30px;
+    background-image: url(../assets/Screen_Shot_2020_03_13_at_10.03.13_AM.0.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.list-main{
+    margin-top: 45px;
+
+}
+.list-main-item{
+    margin-block: 10px;
+    line-height: 24px;
+}
+.list-main-item::marker{
+    color: #61DAFB;
+    font-size: 1.7rem;   
+}
+
